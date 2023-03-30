@@ -5,4 +5,13 @@
   * Place a Bid 
   * Edit a Bid
   * List registered Bids
-
+  
+  
+- Dependencies
+ * Maven
+ * SpringBoot
+ * Junit
+ * Selenium 
+ * Gerkhin
+ * Cucumber
+ * Chromium (chrome driver)
