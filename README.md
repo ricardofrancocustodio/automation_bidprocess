@@ -10,6 +10,7 @@
   
   
  - Dependencies
+   * Java 8
    * Maven
    * SpringBoot
    * Junit
