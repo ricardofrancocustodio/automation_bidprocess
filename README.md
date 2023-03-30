@@ -10,10 +10,10 @@
   
   
  - Dependencies
- * Maven
- * SpringBoot
- * Junit
- * Selenium 
- * Gerkhin
- * Cucumber
- * Chromium (chrome driver)
+  * Maven
+  * SpringBoot
+  * Junit
+  * Selenium 
+  * Gerkhin
+  * Cucumber
+  * Chromium (chrome driver)
